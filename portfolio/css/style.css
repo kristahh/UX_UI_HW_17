@@ -113,7 +113,6 @@ margin-right:80px;
 }
 #child1, #child3, #child2 {
   position:relative;
-  scale:relative;
   display: grid;
   grid: template columns 100%; 
   grid-template-rows: 1fr 1.5fr;
