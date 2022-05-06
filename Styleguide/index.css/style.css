@@ -121,7 +121,7 @@ font-size: 44px;
 }
 .primary {
   background-color: #FFFFFF;
-  box-shadow: -5px 3px 6px 5px #E2DFDF
+  box-shadow: -5px 3px 6px 5px #E2DFDF;
 }
 .hover {
   background-color: #FFFFFF;
@@ -148,7 +148,7 @@ font-size: 44px;
 }
 .roundNormal {
   background-color: #FFFFFF;
-  box-shadow: -5px 3px 6px 5px #E2DFDF
+  box-shadow: -5px 3px 6px 5px #E2DFDF;
 }
 .roundHover {
   background-color: #FFFFFF;
